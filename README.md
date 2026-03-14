@@ -2,11 +2,12 @@
 
 # About Me
 
-- 😃 I'm Gabriel, and I work as a Software Engineer @xgeeks
+- 😃 I'm Gabriel, and I work as a DevOps Engineer @xgeeks
 - 🛠️ I like to build things, and currently I'm working on GitOps/DevOps projects with particular interest in platform engineering
 - 🫶 I'm passionate about technology
 - 👨‍💻 I've a particular like to code backend API's
 - 🚀 I've interest in learning ... a lot of new stuffs 😊
+- 📡 I'm a homelab enthusiast
 
 # Tech Stack
 
